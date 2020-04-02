@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Restaurant menu</string>
+    <string name="menu_item">Item</string>
+    <string name="txt_food_detail">Food detail</string>
+    <string name="txt_food_name_in_details">Food name in details</string>
+</resources>
